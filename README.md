@@ -27,4 +27,4 @@ REACT_APP_FIREBASE_APP_ID=your_app_id
 
 3.Usage: start the development server:
 
-Project Link: https://urway.netlify.app/login
+Project Link: https://github.com/jainaarchi03/Ecommerce_Website
